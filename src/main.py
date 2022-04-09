@@ -1,4 +1,4 @@
-'''
+"""
 ###############################################################################
 #                                                                             #
 #                          Global time telegram bot                           #
@@ -11,5 +11,4 @@
     The bot will be running in the telegram chat and will be able to search the time of the city if a city is sent.
     If the geographic coordinates are sent, the bot will be able to search the time of the city based on the coordinates.
 
-'''
-
+"""
